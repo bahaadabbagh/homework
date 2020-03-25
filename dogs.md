@@ -7,4 +7,4 @@
 6. poodles
 7. chihuahua
 8. Alaskan Malamute
-
+9. Golden Retriever
